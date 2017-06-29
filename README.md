@@ -8,5 +8,3 @@ Using Jekyll to create a static site.
     * Use the command `gem install bundler`
         * May need to use `sudo`
 * Run command `bundle exec jekyll serve` and go to [localhost:4000/yoyo](http://localhost:4000/yoyo/)
-
-## File structure
