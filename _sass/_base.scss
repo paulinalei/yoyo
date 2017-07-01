@@ -1,14 +1,7 @@
-$content-width: 800px;
-$primary: rgba(0, 0, 0, 1);
-$secondary: rgba(201, 201, 201, 1);
 $font-style: 'Scope One', serif;
-$font-color: rgba(0, 0, 0, 1);
-$link-color: $primary;
-$link-hover-color: $secondary;
-$heading-font: 'Scope One', serif;
-$heading-font-color: #425469;
-$light: #E7EDF4;
-$header:  #1D1425;
+$font-color-body: rgba(0, 0, 0, 1);
+$font-color-link: rgba(25, 229, 138, 1);
+$font-color-link-hover: rgba(25, 229, 138, 0.7);
 
 *,
 *::before,
