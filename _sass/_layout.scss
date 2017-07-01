@@ -30,7 +30,6 @@ a,
 a:visited {
   color: $link-color;
   text-decoration: underline;
-  font-weight: bold;
 }
 a:hover {
   color: $link-hover-color;
@@ -93,5 +92,7 @@ aside {
   }
 }
 footer {
-  text-align: center;
+  text-align: left;
+  font-size: 0.7em;
+  line-height: 8px;
 }
