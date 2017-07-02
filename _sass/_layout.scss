@@ -31,7 +31,7 @@ body {
 
 }
 
-.comtainer {
+.container {
   display: block;
   position: absolute;
 }
@@ -43,4 +43,10 @@ footer {
   left: 0;
   position: fixed;
   padding-left: 10px
+}
+
+
+/* portfolio styling */
+.main-image {
+  width: 50%;
 }
