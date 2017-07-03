@@ -28,7 +28,6 @@ body {
       }
     }
   }
-
 }
 
 .container {
@@ -49,4 +48,12 @@ footer {
 /* portfolio styling */
 .main-image {
   width: 50%;
+}
+
+.link {
+  color: $font-color-link;
+  text-decoration: none;
+  &:hover {
+    color: $font-color-link-hover;
+  }
 }
