@@ -20,10 +20,12 @@ body {
         padding: 0 15px;
         font-family: $font-style;
         color: $font-color-link;
-        &:hover,
-        &active, {
+        &:hover {
           text-decoration: none;
           color: $font-color-link-hover;
+        }
+        &:active {
+          color: black;
         }
       }
     }
@@ -40,14 +42,34 @@ footer {
   line-height: 10px;
   bottom: 0;
   left: 0;
-  position: fixed;
-  padding-left: 10px
+  padding-left: 10px;
+  i {
+    padding-right: 4px;
+  }
 }
 
 
 /* portfolio styling */
+
+.portfolio-buttons {
+  text-align: center;
+  button {
+    text-transform: lowercase;
+    padding: 5px;
+    font-family: $font-style;
+    font-size: 14px;
+    color: $font-color-body;
+    background-color: $background-grid-color;
+    border: 1px solid $font-color-link;
+    border-radius: 10%;
+    &:hover {
+      background-color: $background-grid-color-hover;
+    }
+  }
+}
+
 .main-image {
-  width: 50%;
+  width: 100%;
 }
 
 .link {
@@ -55,5 +77,24 @@ footer {
   text-decoration: none;
   &:hover {
     color: $font-color-link-hover;
+  }
+}
+
+.element-item{
+  position: relative;
+  background-color: $background-grid-color;
+  width: 300px;
+  height: 300px;
+  margin: 3px;
+  padding: 5px;
+  .portfolio-title, .portfolio-tagline {
+    text-align: center;
+  }
+}
+
+.element-item:hover {
+  background-color: $background-grid-color-hover;
+  img {
+    opacity: 0.7;
   }
 }
