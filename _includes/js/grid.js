@@ -1,6 +1,4 @@
 <script>
-  console.log('linked');
-
 // init Isotope
 var $grid = $('.grid').isotope({
   // options
