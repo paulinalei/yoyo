@@ -3,6 +3,11 @@ body {
   color: $font-color-body;
 }
 
+.line-break {
+  border: solid 1px $background-grid-color;
+  width: 98%;
+}
+
 .navigation {
   width: 100%;
   display: block;
@@ -43,9 +48,13 @@ footer {
   i {
     padding-right: 4px;
   }
-  .line-break {
-    border: solid 1px $background-grid-color;
-  }
+}
+
+/* about styling */
+.about-me {
+  margin: 0 auto;
+  width: 50%;
+  text-align: center;
 }
 
 
