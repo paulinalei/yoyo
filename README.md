@@ -3,7 +3,9 @@
 Using Jekyll to create a static site.
 
 ## Running it locally
-* Install Ruby, RubyGems, and verify gcc and make are on your system
+* Install Ruby and RubyGmes
+* Verify gcc and make are on your system
+    * You can do this by running the commands `gcc -v` and `make -v`
 * Use RubyGems to install bundler to take care of dependencies
     * Use the command `gem install bundler`
         * May need to use `sudo`
