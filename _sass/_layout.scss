@@ -35,8 +35,13 @@ body {
   }
 }
 
-.container {
-  padding: 15px;
+.container-default {
+  padding-left: 15px;
+}
+
+.container-home {
+  padding-left: 15px;
+  height: 83vh;
 }
 
 footer {
@@ -44,9 +49,32 @@ footer {
   line-height: 10px;
   bottom: 0;
   left: 0;
-  padding: 15px;
+  padding-left: 15px;
   i {
     padding-right: 4px;
+  }
+}
+
+/* home styling*/
+
+.home {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  text-align: center;
+  -ms-transform: translateX(-50%) translateY(-50%);
+  -webkit-transform: translate(-50%,-50%);
+  transform: translate(-50%,-50%);
+}
+
+.name {
+  letter-spacing: 1px;
+}
+
+.home {
+  font-size: 10px;
+  i {
+    padding-right: 2px;
   }
 }
 

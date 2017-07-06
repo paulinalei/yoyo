@@ -1,10 +1,28 @@
----
-layout: default
----
-
-<div>
-    <h2>Paulina Lei</h2>
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+<body>
+{% include header.html %}
+<div class="container-home">
+    <div class="home">
+        <h2 class="name">Paulina Lei</h2>
+        <p>developer // journalist</p>
+        <a class="link" href="https://www.yelp.com/user_details?userid=JChx-48PcGZjD1OE7O69VQ" target="_blank">
+            <i class="fa fa-yelp fa-2x" aria-hidden="true"></i>
+        </a>
+        <a class="link" href="https://github.com/paulinalei" target="_blank">
+            <i class="fa fa-github-alt fa-2x" aria-hidden="true"></i>
+        </a>
+        <a class="link" href="https://www.linkedin.com/in/paulinalei" target="_blank">
+            <i class="fa fa-linkedin fa-2x" aria-hidden="true"></i>
+        </a>
+        <a class="link" href="mailto:paulina.y.lei@gmail.com" target="_blank">
+            <i class="fa fa-envelope-o fa-2x" aria-hidden="true"></i>
+        </a>
+        <div id="sketch-holder"></div>
+    </div>
 </div>
 {{ content }}
-
+</body>
 {% include js/home.js %}
+</html>

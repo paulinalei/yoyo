@@ -11,4 +11,4 @@ Using Jekyll to create a static site.
         * May need to use `sudo`
 * Run command `bundle exec jekyll serve` and go to [localhost:4000](http://localhost:4000/)
 
-* For Windows 10 users running using Bash on Ubuntu on Windows, autoregeneration may not work, so you may have to run the command `bundle exec jekyll serve --no-watch`
+* For Windows 10 users using Bash on Ubuntu on Windows, autoregeneration may not work, so you may have to run the command `bundle exec jekyll serve --no-watch`
