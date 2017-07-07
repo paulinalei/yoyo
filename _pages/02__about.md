@@ -11,28 +11,105 @@ permalink: /about/
 
 <div class="about-activities">
 <h4>Experience</h4>
-<p>American Express | Software Engineering Intern</p>
-<p>Novacoast | Developer Intern</p>
-<p>Jaehoon Sul Lab | Undergraduate Researcher</p>
-<p>WatchGuard Technologies | Software Engineering Intern</p>
+<table>
+    <tr>
+        <td>June 2017 &ndash; Sept 2017</td>
+        <td>American Express</td>
+        <td>Software Engineering Intern</td>
+    </tr>
+    <tr>
+        <td>Dec 2016 &ndash; present</td>
+        <td>Novacoast</td>
+        <td>Developer Intern</td>
+    </tr>
+    <tr>
+        <td>Dec 2016 &ndash; present</td>
+        <td>Jaehoon Sul Lab</td>
+        <td>Undergraduate Researcher</td>
+    </tr>
+    <tr>
+        <td>June 2016 &ndash; Sept 2016</td>
+        <td>WatchGuard Technologies </td>
+        <td>Software Engineering Intern</td>
+    </tr>
+</table>
 
 <h4>Extracurricular Activities</h4>
-<p>Association of Computing Machinery &ndash; Women | Design Chair</p>
-<p>Daily Bruin | Assistant Online Director</p>
-<p>Association of Computing Machinery &ndash; Women | Intern</p>
-<p>Daily Bruin | Project Manager</p>
-<p>Daily Bruin | Web Developer</p>
-<p>Daily Bruin | Assistant Editor</p>
-<p>Daily Bruin | Copy editor</p>
+<table>
+    <tr>
+        <td>June 2017 &ndash; present</td>
+        <td>Association of Computing Machinery &ndash; Women</td>
+        <td>Design Chair</td>
+    </tr>
+    <tr>
+        <td>May 2016 &ndash; June 2017</td>
+        <td>Daily Bruin</td>
+        <td>Assistant Online Director</td>
+    </tr>
+    <tr>
+        <td>May 2016 &ndash; May 2017</td>
+        <td>Association of Computing Machinery &ndash; Women</td>
+        <td>Intern</td>
+    </tr>
+    <tr>
+        <td>Sept 2017 &ndash; June 2017</td>
+        <td>Daily Bruin</td>
+        <td>Project Manager</td>
+    </tr>
+    <tr>
+        <td>Jan 2016 &ndash; June 2017</td>
+        <td>Daily Bruin</td>
+        <td>Web Developer</td>
+    </tr>
+    <tr>
+        <td>June 2015 &ndash; June 2016</td>
+        <td>Daily Bruin</td>
+        <td>Assistant Editor</td>
+    </tr>
+    <tr>
+        <td>Oct 2014 &ndash; June 2015 </td>
+        <td>Daily Bruin</td>
+        <td>Copy editor</td>
+    </tr>
+</table>
+
 <h4>Awards/Honors</h4>
-<p>California Newspaper Publisher's Association's Better Newspaper Contest Online General Excellence First Place 2017</p>
-<p>California College Media Association Best Website Second Place 2017</p>
-<p>California College Media Association Best Magazine Website Second Place 2017</p>
-<p>Society of Professional Journalists Mark of Excellence Best All-Around Daily Student Newspaper Finalist 2017</p>
-<p>Associated Collegiate Press Pacemaker Winner 2016</p>
-<p>Society of Professional Journalists Mark of Excellence Best Website 2016</p>
-<p>National Pacemaker Awards Best College Online News Outlet 2016</p>
-<p>National Pacemaker Awards Best College Newspaper</p>
-<p>California College Media Association Top Daily College Newspaper 2016</p>
-</div>
+<table>
+    <tr>
+        <td>2017</td>
+        <td>California Newspaper Publisher's Association's Better Newspaper Contest Online General Excellence First Place</td>
+    </tr>
+    <tr>
+        <td>2017</td>
+        <td>California College Media Association Best Website Second Place</td>
+    </tr>
+    <tr>
+        <td>2017</td>
+        <td>California College Media Association Best Magazine Website Second Place</td>
+    </tr>
+    <tr>
+        <td>2017</td>
+        <td>Society of Professional Journalists Mark of Excellence Best All-Around Daily Student Newspaper Finalist</td>
+    </tr>
+    <tr>
+        <td>2016</td>
+        <td>Associated Collegiate Press Pacemaker Winner</td>
+    </tr>
+    <tr>
+        <td>2016</td>
+        <td>Society of Professional Journalists Mark of Excellence Best Website</td>
+    </tr>
+    <tr>
+        <td>2016</td>
+        <td>National Pacemaker Awards Best College Online News Outlet</td>
+    </tr>
+    <tr>
+        <td>2016</td>
+        <td>National Pacemaker Awards Best College Newspaper</td>
+    </tr>
+    <tr>
+        <td>2016</td>
+        <td>California College Media Association Top Daily College Newspaper</td>
+    </tr>
+</table>
 
