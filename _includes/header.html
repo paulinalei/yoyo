@@ -1,8 +1,13 @@
 <div class="navigation">
   <ul>
-      {% for page in site.pages %} {% if page.title %}
-      <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
-      {% endif %} {% endfor %}
+    {% for node in site.pages %}
+        {% if page.url == node.url %}
+            <li class="active"><a href="{{node.url}}" class="active">{{node.title}}</a></li>
+        {% else %}
+            <li><a href="{{node.url}}">{{node.title}}</a></li>
+        {% endif %}
+    {% endfor %}
   </ul>
 </div>
 <hr class="line-break">
+
