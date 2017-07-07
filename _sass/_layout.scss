@@ -81,8 +81,14 @@ footer {
 /* about styling */
 .about-me {
   margin: 0 auto;
-  width: 50%;
+  width: 70%;
   text-align: center;
+}
+
+.about-activities {
+  table td {
+    padding: 5px;
+  }
 }
 
 
@@ -98,7 +104,9 @@ footer {
     color: $font-color-link;
     background-color: $background-grid-color;
     border: 1px solid $font-color-link;
-    border-radius: 10%;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     &:hover {
       background-color: $background-grid-color-hover;
     }

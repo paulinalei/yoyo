@@ -3,7 +3,8 @@ layout: project
 title: yelp redesign
 permalink: ../portfolio/yelp-redesign/
 image:
-grid-class: personal
+grid-class: design side-project
+tagline: my take on redesigning yelp
 ---
 ## User Research
 * Casual user
