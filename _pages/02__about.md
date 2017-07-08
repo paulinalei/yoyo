@@ -1,7 +1,7 @@
 ---
 layout: page
 title: about
-permalink: /yoyo/about/
+permalink: /about/
 ---
 
 <div class="about-me">

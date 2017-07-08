@@ -1,7 +1,7 @@
 ---
 layout: portfolio
 title: portfolio
-permalink: /yoyo/portfolio/
+permalink: /portfolio/
 ---
 <div class="portfolio-buttons button-group filter-button-group">
     <button data-filter="*">All</button>
