@@ -44,12 +44,12 @@ permalink: /about/
             <td>Design Chair</td>
         </tr>
         <tr>
-            <td>May 2016 &ndash; June 2017</td>
+            <td>June 2016 &ndash; June 2017</td>
             <td>Daily Bruin</td>
             <td>Assistant Online Director</td>
         </tr>
         <tr>
-            <td>May 2016 &ndash; May 2017</td>
+            <td>June 2016 &ndash; April 2017</td>
             <td>Association of Computing Machinery &ndash; Women</td>
             <td>Intern</td>
         </tr>
@@ -69,7 +69,7 @@ permalink: /about/
             <td>Assistant Editor</td>
         </tr>
         <tr>
-            <td>Oct 2014 &ndash; June 2015 </td>
+            <td>Oct 2014 &ndash; June 2016 </td>
             <td>Daily Bruin</td>
             <td>Copy editor</td>
         </tr>
