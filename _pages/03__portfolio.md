@@ -9,15 +9,18 @@ permalink: /portfolio/
     <button data-filter=".design">Design</button>
     <button data-filter=".writing">Writing</button>
     <button data-filter=".side-project">Side Project</button>
-    <button data-filter=".daily-bruin">Daily Bruin</button>
     <button data-filter=".acm">ACM</button>
+    <button data-filter=".class">Class</button>
+    <button data-filter=".daily-bruin">Daily Bruin</button>
 </div>
 
 <div class="grid">
     {% for project in site.portfolio %}
     <a class="link {{ project.grid-class }} " href="{{ project.permalink }}">
     <div class="element-item">
+    {% if project.image %}
         <img class="main-image" src="../assets/{{ project.image }}" />
+    {% endif %}
         <h4 class="portfolio-title">{{ project.title }}</h4>
         <p class="portfolio-tagline">{{ project.tagline }} </p>
     </div>

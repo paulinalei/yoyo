@@ -38,7 +38,6 @@ body {
 .active {
   font-weight: bold;
   color: $font-color-link-hover;
-  text-decoration: underline;
 }
 
 .container-default {
@@ -146,4 +145,8 @@ footer {
   img {
     opacity: 0.7;
   }
+}
+
+.project-images {
+  width: 95%;
 }
