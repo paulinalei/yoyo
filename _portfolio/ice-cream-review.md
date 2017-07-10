@@ -9,4 +9,5 @@ project-link: https://paulinalei.github.io/ice-cream-review/
 github-link: https://github.com/paulinalei/ice-cream-review
 ---
 
-ice creammmm
+I'm an avid lover of ice cream, so I decided to make a website using the Google Maps JavaScript API to mark all the ice
+cream stores I've been to in addition to displaying my review and rating for each place.

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Adventures in building my personal website
+title:  adventures in building my personal website
 date:   2017-06-28 09:51:06 -0700
-categories: jekyll update
+categories:
 ---
 I'll be using this blog post to keep track of what I've learned while making this website.
 
@@ -27,14 +27,26 @@ I also used collections to make subroutes to generate separate webpages for my p
 ### Sass
 I learned Sass. This definitely made styling so much easier. Why didn't I learn this earlier?
 
+### p5JS
+I first heard about p5JS from my roommate, because she is a Design | Media Arts major and this was a JavaScript library designed specifically for artists.
+I used p5JS for my landing page and loved the effect it achieved. It was easy to learn and definitely great for visual representations.
+
+I found out that p5JS does not automatically resize the canvas, so had to look up how to do this.
+
+I had issues when I was linking in the libraries. The landing page worked on my local server but not when I published it online.
+This was because I used a CDN that used http instead of manually including the files, so I had to change it to https, as GitHub uses https.
+
 ### IsotopeJS
 Using Isotope for my portfolio grid.
 
-I had initally set specific width and height to make my grid elements squares. But this caused some issues in formatting the grid and making it responsive.
+I had initally set a specific width and height to make my grid elements squares. But this caused some issues in formatting the grid and making it responsive.
 Using relative widths now.
 
 ## Using a DNS
 First time buying a domain!
 
-Before, I had used UCLA's online hosting service and had a domain with bol.ucla.edu. It was nice to learn how to do this myself. I purchased a domain name via Namecheap and easily found resources to get my website up and running!
+Before, I had used UCLA's online hosting service and had a domain with bol.ucla.edu. It was nice to learn how to do this myself.
+I purchased a domain name via Namecheap and easily found resources to get my website up and running!
 
+In adding a CNAME record for Namecheap, I had first put in the project URL for the repository holding my website instead of using my own user URL.
+I figured out that you only need to use your user URL instead of the specific project URL because GitHub will automatically find the CNAME for a user.

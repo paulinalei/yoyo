@@ -8,4 +8,4 @@ project-link: http://graphics.dailybruin.com/record-store-review/
 github-link: https://github.com/daily-bruin/record-store-review
 ---
 
-This was a website that showed the reviews of record stores in Los Angeles.
+This was a website that showed the reviews of record stores in Los Angeles by the Daily Bruin.
