@@ -2,7 +2,7 @@
 layout: post
 title:  adventures in building my personal website
 date:   2017-06-28 09:51:06 -0700
-categories:
+categories: blog
 ---
 I'll be using this blog post to keep track of what I've learned while making this website.
 

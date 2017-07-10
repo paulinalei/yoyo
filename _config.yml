@@ -34,7 +34,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
-
+permalink: pretty
 # Collections
 collections:
   portfolio:
