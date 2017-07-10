@@ -19,6 +19,7 @@ permalink: /portfolio/
 </div>
 
 <div class="grid">
+    <div class="grid-sizer"></div>
     {% for project in site.portfolio %}
     <div class="grid-item {{ project.grid-class }} ">
         <a class="link" href="{{ project.permalink }}">

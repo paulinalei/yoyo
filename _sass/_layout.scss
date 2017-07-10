@@ -138,9 +138,12 @@ footer {
   margin: 0 auto;
 }
 
+.grid-sizer {
+  width: 20%;
+}
+
 .grid-item {
-  position: relative;
-  width: 23%;
+  width: 18%;
   margin: 1%;
   border: 1px solid $font-color-link;
   border-radius: 3px;
@@ -165,8 +168,10 @@ footer {
 /* media queries*/
 @media (min-width: 300px) and (max-width: 740px) {
   /* portfolio styling */
+  .grid-sizer {
+    width: 50%;
+  }
   .grid-item {
-    position: relative;
     width: 48%;
     margin: 1%;
   }
