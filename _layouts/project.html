@@ -1,9 +1,15 @@
 ---
 layout: page
 ---
+
+{% if page.image %}
 <img class="main-image" src="../../assets/{{ page.image }}" />
+{% endif %}
+
 <br/>
+{% if page.project-link %}
 <a class="link" href=" {{ page.project-link }}" target="_blank">view here</a>
+{% endif %}
 
 {% if page.github-link %}
     // <a class="link" href=" {{ page.github-link }}" target="_blank">repo here</a>
