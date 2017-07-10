@@ -144,10 +144,6 @@ footer {
   margin: 1%;
   border: 1px solid $font-color-link;
   border-radius: 3px;
-  &:after {
-    display: block;
-    padding-bottom: 100%;
-  }
   &:hover {
     background-color: $background-grid-color-hover;
     img {
@@ -164,4 +160,14 @@ footer {
 
 .project-images {
   width: 95%;
+}
+
+/* media queries*/
+@media (min-width: 300px) and (max-width: 740px) {
+  /* portfolio styling */
+  .grid-item {
+    position: relative;
+    width: 48%;
+    margin: 1%;
+  }
 }
