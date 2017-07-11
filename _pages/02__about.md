@@ -5,9 +5,10 @@ permalink: /about/
 ---
 
 <div class="about-me">
-<h4>Hi, I'm Paulina Lei</h4>
+<h4>Hi, I'm Paulina Lei.</h4>
 <p>I'm currently a senior at UCLA studying Mathematics of Computation, a major that combines curriculum from applied mathematics and computer science.</p>
 <p>I'm really passionate about finding the intersection of mathematics, computer science, and art. I'm currently interested in web development, design, and computer graphics.</p>
+<p>Diversity and inclusion in STEM fields are especially important to me, so I am an advent supporter and participant in bringing underrepresented communities into STEM.</p>
 <p>Also, I have an infinite love for hamsters and "Calvin and Hobbes."</p>
 </div>
 

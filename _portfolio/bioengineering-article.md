@@ -2,7 +2,7 @@
 layout: project
 title: bioengineering article
 permalink: ../portfolio/bioengineering-article/
-image:
+image: images/bioengineeringphoto.jpg
 grid-class: daily-bruin writing
 tagline: article about bioengineering research at UCLA
 project-link: http://dailybruin.com/2015/10/08/ucla-researchers-develop-camera-technique-to-find-cancerous-tissue/

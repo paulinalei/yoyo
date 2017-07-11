@@ -53,6 +53,10 @@ I used Isotope for my portfolio grid.
 I had initally set a specific width and height to make my grid elements squares. But this caused some issues in formatting the grid and making it responsive.
 Using relative widths now.
 
+Then, I had an issue where sometimes the grid elements would overlap.
+This was because the grid sizes would be calculated before images loaded, giving the wrong dimension size.
+I just made sure images loaded before the grid elements loaded.
+
 ## Using a DNS
 First time buying a domain!
 
@@ -62,7 +66,11 @@ I purchased a domain name via Namecheap and easily found resources to get my web
 In adding a CNAME record for Namecheap, I had first put in the project URL for the repository holding my website instead of using my own user URL.
 I figured out that you only need to use your user URL instead of the specific project URL because GitHub will automatically find the CNAME for a user.
 
+When I launched, I kept having issues where if you tried to visit the link, it would sometimes give an error of too many redirects.
+This was because in my CNAME for github, I just put `paulinalei.com` instead of `www.paulinalei.com` but on Namecheap I put `www` for my redirect.
+After changing my CNAME to `www.paulinalei.com` the error went away.
+
 ## Shoutouts
-Thanks to Bryan for helping me with Jekyll.
+Thanks to Bryan for helping me with Jekyll and general website issues.
 
 Thanks to Andrew and Howard for giving me some critiques.
