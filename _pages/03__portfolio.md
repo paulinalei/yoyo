@@ -4,17 +4,17 @@ title: portfolio
 permalink: /portfolio/
 ---
 <div class="portfolio-buttons button-group filter-button-group">
-    <div class="button-group-one">
-        <button data-filter="*">All</button>
-        <button data-filter=".code">Code</button>
-        <button data-filter=".design">Design</button>
-        <button data-filter=".writing">Writing</button>
+    <div class="button-group">
+        <button data-filter="*" class="is-checked">All</button>
+        <button data-filter=".code" class="is-not-checked">Code</button>
+        <button data-filter=".design" class="is-not-checked">Design</button>
+        <button data-filter=".writing" class="is-not-checked">Writing</button>
     </div>
-    <div class="button-group-two">
-        <button data-filter=".acm">ACM</button>
-        <button data-filter=".class">Class</button>
-        <button data-filter=".daily-bruin">Daily Bruin</button>
-        <button data-filter=".side-project">Side Project</button>
+    <div class="button-group">
+        <button data-filter=".acm" class="is-not-checked">ACM</button>
+        <button data-filter=".class" class="is-not-checked">Class</button>
+        <button data-filter=".daily-bruin" class="is-not-checked">Daily Bruin</button>
+        <button data-filter=".side-project" class="is-not-checked">Side Project</button>
     </div>
 </div>
 

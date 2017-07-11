@@ -110,7 +110,7 @@ footer {
     font-family: $font-style;
     font-size: 14px;
     color: $font-color-link;
-    background-color: $background-grid-color;
+    //background-color: white;
     border: 1px solid $font-color-link;
     border-radius: 20px;
     margin-top: 10px;
@@ -161,8 +161,12 @@ footer {
   }
 }
 
+.is-not-checked {
+  background-color: white;
+}
+
 .is-checked {
-  background-color: $font-color-link-hover;
+  background-color: $background-grid-color-hover;
 }
 
 .project-images {
