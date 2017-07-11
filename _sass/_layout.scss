@@ -3,6 +3,23 @@ body {
   color: $font-color-body;
 }
 
+a {
+  text-decoration: none;
+  font-family: $font-style;
+  color: $font-color-link;
+  &:hover {
+    text-decoration: none;
+    font-weight: bold;
+    color: $font-color-link-hover;
+  }
+}
+
+code {
+  background-color: $background-code-color;
+  padding: 1px;
+  border-radius: 2px;
+}
+
 .line-break {
   border: solid 1px $background-grid-color;
   width: 98%;
@@ -20,17 +37,7 @@ body {
     li {
       float: left;
       position: relative;
-      a {
-        text-decoration: none;
-        padding: 0 15px;
-        font-family: $font-style;
-        color: $font-color-link;
-        &:hover {
-          text-decoration: none;
-          font-weight: bold;
-          color: $font-color-link-hover;
-        }
-      }
+      padding: 0 15px;
     }
   }
 }
@@ -101,7 +108,6 @@ footer {
 
 
 /* portfolio styling */
-
 .portfolio-buttons {
   text-align: center;
   button {
@@ -173,7 +179,7 @@ footer {
   width: 95%;
 }
 
-/* media queries*/
+/* media queries */
 @media (min-width: 300px) and (max-width: 740px) {
   /* portfolio styling */
   .grid-sizer {
