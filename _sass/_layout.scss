@@ -127,7 +127,7 @@ footer {
   }
 }
 
-.main-image {
+.portfolio-image {
   width: 100%;
 }
 
@@ -175,8 +175,21 @@ footer {
   background-color: $background-grid-color-hover;
 }
 
+/* project specific styling */
+.project-title {
+  text-align: center;
+}
+
+.main-image {
+  width: 50%;
+  display: block;
+  margin: 0 auto;
+}
+
 .project-images {
-  width: 95%;
+  width: 40%;
+  display: block;
+  margin: 0 auto;
 }
 
 /* media queries */
