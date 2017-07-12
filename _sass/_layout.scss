@@ -3,6 +3,23 @@ body {
   color: $font-color-body;
 }
 
+a {
+  text-decoration: none;
+  font-family: $font-style;
+  color: $font-color-link;
+  &:hover {
+    text-decoration: none;
+    font-weight: bold;
+    color: $font-color-link-hover;
+  }
+}
+
+code {
+  background-color: $background-code-color;
+  padding: 1px;
+  border-radius: 2px;
+}
+
 .line-break {
   border: solid 1px $background-grid-color;
   width: 98%;
@@ -20,17 +37,7 @@ body {
     li {
       float: left;
       position: relative;
-      a {
-        text-decoration: none;
-        padding: 0 15px;
-        font-family: $font-style;
-        color: $font-color-link;
-        &:hover {
-          text-decoration: none;
-          font-weight: bold;
-          color: $font-color-link-hover;
-        }
-      }
+      padding: 0 15px;
     }
   }
 }
@@ -101,7 +108,6 @@ footer {
 
 
 /* portfolio styling */
-
 .portfolio-buttons {
   text-align: center;
   button {
@@ -110,7 +116,7 @@ footer {
     font-family: $font-style;
     font-size: 14px;
     color: $font-color-link;
-    background-color: $background-grid-color;
+    //background-color: white;
     border: 1px solid $font-color-link;
     border-radius: 20px;
     margin-top: 10px;
@@ -138,16 +144,15 @@ footer {
   margin: 0 auto;
 }
 
+.grid-sizer {
+  width: 20%;
+}
+
 .grid-item {
-  position: relative;
-  width: 23%;
+  width: 18%;
   margin: 1%;
   border: 1px solid $font-color-link;
   border-radius: 3px;
-  &:after {
-    display: block;
-    padding-bottom: 100%;
-  }
   &:hover {
     background-color: $background-grid-color-hover;
     img {
@@ -162,6 +167,26 @@ footer {
   }
 }
 
+.is-not-checked {
+  background-color: white;
+}
+
+.is-checked {
+  background-color: $background-grid-color-hover;
+}
+
 .project-images {
   width: 95%;
+}
+
+/* media queries */
+@media (min-width: 300px) and (max-width: 740px) {
+  /* portfolio styling */
+  .grid-sizer {
+    width: 50%;
+  }
+  .grid-item {
+    width: 48%;
+    margin: 1%;
+  }
 }

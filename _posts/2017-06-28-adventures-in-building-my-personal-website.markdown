@@ -2,7 +2,7 @@
 layout: post
 title:  adventures in building my personal website
 date:   2017-06-28 09:51:06 -0700
-categories:
+categories: blog
 ---
 I'll be using this blog post to keep track of what I've learned while making this website.
 
@@ -20,8 +20,19 @@ Overall, I am really glad my friend told me to use Jekyll. Definitely made the p
 
 ### Routing
 I pushed this to a project repository instead of using the user repository that GitHub provides. This caused a lot of issues in terms of figuring out paths.
+Ultimately, I had issues because my project URL had an extra layer in the directory while my local server did not.
+In order to deal with this, I had to prepend my project repository name to my paths so that when I viewed my site on GitHub pages, the paths would be correct.
+Then, when viewing it locally, I would have to run `bundle exec jekyll serve --baseurl ''` so that I would not have to prepend anything when viewing locally.
+Learned this by viewing [this](https://github.com/jekyll/jekyll/issues/332) post.
 
-I also used collections to make subroutes to generate separate webpages for my portfolio projects.
+However, when I bought my domain, I no longer had to prepend anything. So, this ended up just being an issue while I hadn't launched my website.
+
+I also used collections to make subroutes to generate separate webpages for my portfolio projects and this caused some issues.
+I wanted to highlight the active tab, and I first did this by using the keyword Liquid provides `contains` so that any subroute would also keep the active tab highlighted.
+For example, all my portfolio projects have separate pages and the links will show `/portfolio` before their own specific link.
+To make sure the tab was still highlighted as active, I made it so that any URL that contained a matching word in my navigation would also keep the tab highlighted.
+But, this caused an issue in terms of highlighting the home tab. Because home is represented with `/`, it would always remain highlighted.
+I just had to figure out the logic to make sure home wasn't constantly highlighted.
 
 ## Responsive Design
 ### Sass
@@ -34,13 +45,17 @@ I used p5JS for my landing page and loved the effect it achieved. It was easy to
 I found out that p5JS does not automatically resize the canvas, so had to look up how to do this.
 
 I had issues when I was linking in the libraries. The landing page worked on my local server but not when I published it online.
-This was because I used a CDN that used http instead of manually including the files, so I had to change it to https, as GitHub uses https.
+This was because I used a CDN that used http instead of manually including the files, so I had to change it to https because GitHub uses https.
 
 ### IsotopeJS
-Using Isotope for my portfolio grid.
+I used Isotope for my portfolio grid.
 
 I had initally set a specific width and height to make my grid elements squares. But this caused some issues in formatting the grid and making it responsive.
 Using relative widths now.
+
+Then, I had an issue where sometimes the grid elements would overlap.
+This was because the grid sizes would be calculated before images loaded, giving the wrong dimension size.
+I just made sure images loaded before the grid elements loaded.
 
 ## Using a DNS
 First time buying a domain!
@@ -50,3 +65,12 @@ I purchased a domain name via Namecheap and easily found resources to get my web
 
 In adding a CNAME record for Namecheap, I had first put in the project URL for the repository holding my website instead of using my own user URL.
 I figured out that you only need to use your user URL instead of the specific project URL because GitHub will automatically find the CNAME for a user.
+
+When I launched, I kept having issues where if you tried to visit the link, it would sometimes give an error of too many redirects.
+This was because in my CNAME for github, I just put `paulinalei.com` instead of `www.paulinalei.com` but on Namecheap I put `www` for my redirect.
+After changing my CNAME to `www.paulinalei.com` the error went away.
+
+## Shoutouts
+Thanks to Bryan for helping me with Jekyll and general website issues.
+
+Thanks to Andrew and Howard for giving me some critiques.

@@ -2,7 +2,7 @@
 layout: post
 title:  getting back into art
 date:   2017-07-09 16:59:06 -0700
-categories:
+categories: blog
 ---
 I've been meaning to make more art pieces for my portfolio.
 
