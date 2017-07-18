@@ -67,7 +67,7 @@ In adding a CNAME record for Namecheap, I had first put in the project URL for t
 I figured out that you only need to use your user URL instead of the specific project URL because GitHub will automatically find the CNAME for a user.
 
 When I launched, I kept having issues where if you tried to visit the link, it would sometimes give an error of too many redirects.
-This was because in my CNAME for github, I just put `paulinalei.com` instead of `www.paulinalei.com` but on Namecheap I put `www` for my redirect.
+This was because in my CNAME for GitHub, I just put `paulinalei.com` instead of `www.paulinalei.com` but on Namecheap I put `www` for my redirect.
 After changing my CNAME to `www.paulinalei.com` the error went away.
 
 ## Shoutouts
