@@ -8,7 +8,7 @@ tagline: android app for computer networks class
 github-link: https://github.com/H-Huang/Whats-Happening
 ---
 
-Our group of five people built and Android application that allowed users to notify other users where events were happening.
+Our group of five people built an Android application that allowed users to notify other users where events were happening.
 Anyone could post a message describing the event and a pin would show up on the map letting people know an event was happening.
 
 This was the splash page.
@@ -45,5 +45,3 @@ We also have an event feed so that users can see all the events happening.
 This shows up when the user clicks on the pink star button.
 
 <img class="project-images" src="/assets/images/m117eventfeed.png" />
-
-
