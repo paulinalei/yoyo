@@ -24,8 +24,8 @@ permalink: /portfolio/
     <div class="grid-item {{ project.grid-class }} ">
         <a class="link" href="{{ project.permalink }}">
             <div class="grid-item-content">
-                {% if project.image %}
-                    <img class="portfolio-image" src="../assets/{{ project.image }}" />
+                {% if project.icon-image %}
+                    <img class="portfolio-image" src="../assets/{{ project.icon-image }}" />
                 {% endif %}
             <h4 class="portfolio-title">{{ project.title }}</h4>
             <p class="portfolio-tagline">{{ project.tagline }} </p>

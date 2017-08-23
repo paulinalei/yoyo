@@ -2,7 +2,8 @@
 layout: project
 title: spaceship hoops
 permalink: ../portfolio/spaceship-hoops/
-image: images/spacehoops.png
+icon-image: images/Spaceship.png
+page-image: images/spacehoops.png
 grid-class: class code
 tagline: interactive game for computer graphics class
 project-link: https://ucla-wi17-cs174a.github.io/project-group09/

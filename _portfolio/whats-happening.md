@@ -2,7 +2,7 @@
 layout: project
 title: what's happening?
 permalink: ../portfolio/whats-happening/
-image:
+icon-image: images/MapsPin.png
 grid-class: class code
 tagline: android app for computer networks class
 github-link: https://github.com/H-Huang/Whats-Happening
