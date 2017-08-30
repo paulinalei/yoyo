@@ -11,6 +11,8 @@ github-link: https://github.com/H-Huang/Whats-Happening
 Our group of five people built an Android application that allowed users to notify other users where events were happening.
 Anyone could post a message describing the event and a pin would show up on the map letting people know an event was happening.
 
+We used the Google Maps JavaScript API.
+
 This was the splash page.
 
 <img class="project-images" src="/assets/images/m117splash.jpg" />

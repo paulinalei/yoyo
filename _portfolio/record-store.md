@@ -11,3 +11,7 @@ github-link: https://github.com/daily-bruin/record-store-review
 ---
 
 This was a website that showed the reviews of record stores in Los Angeles by the Daily Bruin.
+
+I pulled the text data from an Excel spreadsheet using HandlebarsJS.
+
+Responsiveness of the website was handled using Bootstrap.
