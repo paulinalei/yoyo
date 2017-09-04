@@ -27,9 +27,9 @@ permalink: /portfolio/
                 {% if project.icon-image %}
                     <img class="portfolio-image" src="../assets/{{ project.icon-image }}" />
                 {% endif %}
-            <h4 class="portfolio-title">{{ project.title }}</h4>
-            <p class="portfolio-tagline">{{ project.tagline }} </p>
+                <p class="portfolio-tagline"> {{ project.tagline }}</p>
             </div>
+            <p class="portfolio-title"> {{ project.title }}</p>
         </a>
     </div>
     {% endfor %}
