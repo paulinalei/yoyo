@@ -15,3 +15,6 @@ I created this for ACM-W's banner. People will be signing on the white space wri
 
 I designed this event header to be shared on Facebook promoting our mentorship social.
 <img class="project-images" src="/assets/images/acm-wmentorshipsocial.jpg" />
+
+I designed this flyer to be passed out to recruit new members for the 2017-2018 school year.
+<img class="project-images" src="/assets/images/acm-wflyer.png" />
