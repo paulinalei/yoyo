@@ -42,6 +42,8 @@ permalink: /about/
         </tr>
     </table>
 
+    <p>Feel free to shoot me an <a class="link" href="mailto:paulina.y.lei@gmail.com" target="_blank">email</a> if you would like to see my resume.</p>
+
     <h4>Extracurricular Activities</h4>
     <table class="table-extracurriculars">
         <tr>
@@ -77,7 +79,7 @@ permalink: /about/
         <tr>
             <td>Oct 2014 &ndash; June 2016 </td>
             <td>Daily Bruin</td>
-            <td>Copy editor</td>
+            <td>Copy Editor</td>
         </tr>
     </table>
 
