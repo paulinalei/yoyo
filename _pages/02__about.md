@@ -8,7 +8,7 @@ permalink: /about/
 <h4>Hi, I'm Paulina Lei.</h4>
 <p>I'm currently a senior at UCLA studying Mathematics of Computation, a major that combines curriculum from applied mathematics and computer science.</p>
 <p>I'm really passionate about finding the intersection of mathematics, computer science, and art. I'm currently interested in web development, design, and computer graphics.</p>
-<p>Diversity and inclusion in STEM fields are especially important to me, so I am an advent supporter and participant in bringing underrepresented communities into STEM.</p>
+<p>Diversity and inclusion in STEM fields are especially important to me, so I am an ardent supporter and participant in bringing underrepresented communities into STEM.</p>
 <p>Also, I have an infinite love for hamsters and "Calvin and Hobbes."</p>
 </div>
 
@@ -80,6 +80,18 @@ permalink: /about/
     <table class="table-awards">
         <tr>
             <td>2017</td>
+            <td>National Pacemaker Award for Best 2016-2017 College Online News Outlet</td>
+        </tr>
+        <tr>
+            <td>2017</td>
+            <td>College Media Association Pinnacle Award for Best Online Main Page</td>
+        </tr>
+        <tr>
+            <td>2017</td>
+            <td>College Media Association Pinnacle Award for Best Website Third Place</td>
+        </tr>
+        <tr>
+            <td>2017</td>
             <td>California Newspaper Publisher's Association's Better Newspaper Contest Online General Excellence First Place</td>
         </tr>
         <tr>
@@ -116,4 +128,3 @@ permalink: /about/
         </tr>
     </table>
 </div>
-

@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
-
+<a class="link" href="/blog">back to blog feed</a>
 <h2>{{ page.title }}</h2>
 <time>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</time>
 <hr/>
 {{ content }}
+<a class="link" href="/blog">back to blog feed</a>

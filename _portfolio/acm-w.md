@@ -18,3 +18,6 @@ I designed this event header to be shared on Facebook promoting our mentorship s
 
 I designed this flyer to be passed out to recruit new members for the 2017-2018 school year.
 <img class="project-images" src="/assets/images/acm-wflyer.png" />
+
+I designed this for a Facebook event banner to promote a Facebook Tech Panel for one of our infosessions.
+<img class="project-images" src="/assets/images/acm-wfacebookpanel.png" />
