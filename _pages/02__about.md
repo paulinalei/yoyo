@@ -16,6 +16,11 @@ permalink: /about/
     <h4>Experience</h4>
     <table class="table-experience">
         <tr>
+            <td>June 2018 &ndash; TBD</td>
+            <td>Microsoft</td>
+            <td>Incoming Software Engineering Intern</td>
+        </tr>
+        <tr>
             <td>June 2017 &ndash; Sept 2017</td>
             <td>American Express</td>
             <td>Software Engineering Intern</td>
