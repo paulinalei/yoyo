@@ -6,6 +6,8 @@ icon-image: images/ACM.png
 page-image: images/acmdesignassets.JPG
 grid-class: acm design
 tagline: rebranding acm
+project-link: https://uclaacm.github.io/Styleguide/
+github-link: https://github.com/uclaacm/Styleguide
 ---
 
 This was a project to make the largest computer science club at UCLA, the Association of Computing Machinery, seem less elitist and more inclusive towards beginner programmers.
