@@ -6,8 +6,8 @@ permalink: /about/
 
 <div class="about-me">
 <h4>Hi, I'm Paulina Lei.</h4>
-<p>I'm currently a senior at UCLA studying Mathematics of Computation, a major that combines curriculum from applied mathematics and computer science.</p>
-<p>I'm really passionate about finding the intersection of mathematics, computer science, and art. I'm currently interested in human-computer interaction.</p>
+<p>I'm currently a first year graduate student at UC Davis pursuing a Master's degree in computer science. I completed my Bachelor's degree at UCLA in computational mathematics, a major that combines curriculum from applied mathematics and computer science.</p>
+<p>I'm really passionate about finding the intersection of mathematics, computer science, and art. I'm currently interested in human-computer interaction, visualization, and machine learning.</p>
 <p>Diversity and inclusion in STEM fields are especially important to me, so I am an ardent supporter and participant in bringing underrepresented communities into STEM.</p>
 <p>Also, I have an infinite love for hamsters and "Calvin and Hobbes."</p>
 </div>
@@ -16,9 +16,9 @@ permalink: /about/
     <h4>Experience</h4>
     <table class="table-experience">
         <tr>
-            <td>June 2018 &ndash; TBD</td>
+            <td>June 2018 &ndash; Sept 2018</td>
             <td>Microsoft</td>
-            <td>Incoming Software Engineering Intern</td>
+            <td>Software Engineering Intern</td>
         </tr>
         <tr>
             <td>June 2017 &ndash; Sept 2017</td>
@@ -47,9 +47,14 @@ permalink: /about/
     <h4>Extracurricular Activities</h4>
     <table class="table-extracurriculars">
         <tr>
-            <td>April 2017 &ndash; present</td>
-            <td>Association of Computing Machinery &ndash; Women</td>
+            <td>April 2017 &ndash; May 2018</td>
+            <td>Association for Computing Machinery &ndash; Women</td>
             <td>Design Chair</td>
+        </tr>
+        <tr>
+            <td>June 2018 &ndash; May 2018</td>
+            <td>Association for Computing Machinery</td>
+            <td>Designer</td>
         </tr>
         <tr>
             <td>June 2016 &ndash; June 2017</td>
@@ -58,7 +63,7 @@ permalink: /about/
         </tr>
         <tr>
             <td>June 2016 &ndash; April 2017</td>
-            <td>Association of Computing Machinery &ndash; Women</td>
+            <td>Association for Computing Machinery &ndash; Women</td>
             <td>Intern</td>
         </tr>
         <tr>
