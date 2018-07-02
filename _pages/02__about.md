@@ -26,14 +26,14 @@ permalink: /about/
             <td>Software Engineering Intern</td>
         </tr>
         <tr>
-            <td>Dec 2016 &ndash; present</td>
-            <td>Novacoast</td>
-            <td>Developer Intern</td>
-        </tr>
-        <tr>
-            <td>Dec 2016 &ndash; present</td>
+            <td>Dec 2016 &ndash; June 2018</td>
             <td>Jaehoon Sul Lab</td>
             <td>Undergraduate Researcher</td>
+        </tr>
+        <tr>
+            <td>Dec 2016 &ndash; June 2017</td>
+            <td>Novacoast</td>
+            <td>Developer Intern</td>
         </tr>
         <tr>
             <td>June 2016 &ndash; Sept 2016</td>
