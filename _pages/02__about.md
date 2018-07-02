@@ -9,7 +9,7 @@ permalink: /about/
 <p>I'm currently a first year graduate student at UC Davis pursuing a Master's degree in computer science. I completed my Bachelor's degree at UCLA in computational mathematics, a major that combines curriculum from applied mathematics and computer science.</p>
 <p>I'm really passionate about finding the intersection of mathematics, computer science, and art. I'm currently interested in human-computer interaction, visualization, and machine learning.</p>
 <p>Diversity and inclusion in STEM fields are especially important to me, so I am an ardent supporter and participant in bringing underrepresented communities into STEM.</p>
-<p>Also, I have an infinite love for hamsters and "Calvin and Hobbes."</p>
+<p>Also, I have an infinite love for hamsters and "Calvin and Hobbes".</p>
 </div>
 
 <div class="about-activities">
