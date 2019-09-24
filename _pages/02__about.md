@@ -6,15 +6,19 @@ permalink: /about/
 
 <div class="about-me">
 <h4>Hi, I'm Paulina Lei.</h4>
-<p>I'm currently a first year graduate student at UC Davis pursuing a Master's degree in computer science. I completed my Bachelor's degree at UCLA in computational mathematics, a major that combines curriculum from applied mathematics and computer science.</p>
-<p>I'm really passionate about finding the intersection of mathematics, computer science, and art. I'm currently interested in human-computer interaction, visualization, and machine learning.</p>
-<p>Diversity and inclusion in STEM fields are especially important to me, so I am an ardent supporter and participant in bringing underrepresented communities into STEM.</p>
-<p>Also, I have an infinite love for hamsters and "Calvin and Hobbes".</p>
+<p>I'm currently a graduate student at UC Davis pursuing a Master's degree in computer science. I completed my Bachelor's degree at UCLA in computational mathematics, a major that combines curriculum from applied mathematics and computer science.</p>
+<p>Diversity, equity, and inclusion in all spaces are especially important to me, so I am an ardent supporter of bringing marginalized communities into the forefront of spaces that need more representation.</p>
+<p>Also, I have an infinite love for hamsters and "Calvin and Hobbes."</p>
 </div>
 
 <div class="about-activities">
     <h4>Experience</h4>
     <table class="table-experience">
+        <tr>
+            <td>June 2019 &ndash; Sept 2019</td>
+            <td>LinkedIn</td>
+            <td>Software Engineering Intern</td>
+        </tr>
         <tr>
             <td>June 2018 &ndash; Sept 2018</td>
             <td>Microsoft</td>
@@ -24,11 +28,6 @@ permalink: /about/
             <td>June 2017 &ndash; Sept 2017</td>
             <td>American Express</td>
             <td>Software Engineering Intern</td>
-        </tr>
-        <tr>
-            <td>Dec 2016 &ndash; June 2018</td>
-            <td>Jaehoon Sul Lab</td>
-            <td>Undergraduate Researcher</td>
         </tr>
         <tr>
             <td>Dec 2016 &ndash; June 2017</td>
@@ -47,14 +46,24 @@ permalink: /about/
     <h4>Extracurricular Activities</h4>
     <table class="table-extracurriculars">
         <tr>
-            <td>April 2017 &ndash; May 2018</td>
+            <td>Sept 2018 &ndash; Present</td>
+            <td>Visualization & Interface Design Innovation Lab</td>
+            <td>Graduate Student Researcher</td>
+        </tr>
+        <tr>
+            <td>April 2017 &ndash; June 2018</td>
             <td>Association for Computing Machinery &ndash; Women</td>
             <td>Design Chair</td>
         </tr>
         <tr>
-            <td>June 2018 &ndash; May 2018</td>
+            <td>June 2017 &ndash; June 2018</td>
             <td>Association for Computing Machinery</td>
             <td>Designer</td>
+        </tr>
+        <tr>
+            <td>Dec 2016 &ndash; June 2018</td>
+            <td>Jaehoon Sul Lab</td>
+            <td>Undergraduate Student Researcher</td>
         </tr>
         <tr>
             <td>June 2016 &ndash; June 2017</td>
