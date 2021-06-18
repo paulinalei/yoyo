@@ -6,7 +6,7 @@ permalink: /about/
 
 <div class="about-me">
 <h4>Hi, I'm Paulina Lei.</h4>
-<p>I'm currently a graduate student at UC Davis pursuing a Master's degree in computer science. I completed my Bachelor's degree at UCLA in computational mathematics, a major that combines curriculum from applied mathematics and computer science.</p>
+<p>I'm currently a software engineer at LinkedIn. I completed my Master's degree at UC Davis in computer science and my Bachelor's degree at UCLA in computational mathematics, a major that combines curriculum from applied mathematics and computer science.</p>
 <p>Diversity, equity, and inclusion in all spaces are especially important to me, so I am an ardent supporter of bringing marginalized communities into the forefront of spaces that need more representation.</p>
 <p>Also, I have an infinite love for hamsters and "Calvin and Hobbes."</p>
 </div>
@@ -14,6 +14,11 @@ permalink: /about/
 <div class="about-activities">
     <h4>Experience</h4>
     <table class="table-experience">
+        <tr>
+            <td>June 2020 &ndash; Present</td>
+            <td>LinkedIn</td>
+            <td>Software Engineer</td>
+        </tr>
         <tr>
             <td>June 2019 &ndash; Sept 2019</td>
             <td>LinkedIn</td>
@@ -46,7 +51,7 @@ permalink: /about/
     <h4>Extracurricular Activities</h4>
     <table class="table-extracurriculars">
         <tr>
-            <td>Sept 2018 &ndash; Present</td>
+            <td>Sept 2018 &ndash; Sept 2019</td>
             <td>Visualization & Interface Design Innovation Lab</td>
             <td>Graduate Student Researcher</td>
         </tr>
