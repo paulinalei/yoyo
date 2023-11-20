@@ -15,7 +15,12 @@ permalink: /about/
     <h4>Experience</h4>
     <table class="table-experience">
         <tr>
-            <td>June 2020 &ndash; Present</td>
+            <td>Oct 2021 &ndash; Present</td>
+            <td>Gusto</td>
+            <td>Software Engineer</td>
+        </tr>
+        <tr>
+            <td>June 2020 &ndash; Oct 2021</td>
             <td>LinkedIn</td>
             <td>Software Engineer</td>
         </tr>
