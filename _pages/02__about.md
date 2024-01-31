@@ -6,7 +6,7 @@ permalink: /about/
 
 <div class="about-me">
 <h4>Hi, I'm Paulina Lei.</h4>
-<p>I'm currently a software engineer at LinkedIn. I completed my Master's degree at UC Davis in computer science and my Bachelor's degree at UCLA in computational mathematics, a major that combines curriculum from applied mathematics and computer science.</p>
+<p>I'm currently a software engineer at Gusto. I completed my Master's degree at UC Davis in computer science and my Bachelor's degree at UCLA in computational mathematics, a major that combines curriculum from applied mathematics and computer science.</p>
 <p>Diversity, equity, and inclusion in all spaces are especially important to me, so I am an ardent supporter of bringing marginalized communities into the forefront of spaces that need more representation.</p>
 <p>Also, I have an infinite love for hamsters and "Calvin and Hobbes."</p>
 </div>
